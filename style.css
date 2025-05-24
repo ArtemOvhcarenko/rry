@@ -1,0 +1,40 @@
+body {
+    font-family: sans-serif;
+    background: beige;
+}
+h1{ 
+    text-align: center;
+    border: solid 3px black;
+}
+.magaz:hover{
+  font-size: 35px;
+  opacity:1; 
+  border: solid 3px black;
+  
+}
+.stal:hover{ 
+   font-size: 35px;
+  opacity:1; 
+  border: solid 3px black;
+}
+.boe:hover{ 
+   font-size: 35px;
+  opacity:1; 
+  border: solid 3px black;
+}
+.Mercedes:hover{
+    font-size: 35px;
+  opacity:1; 
+  border: solid 3px black;
+}
+.pizza:hover{ 
+font-size: 35px;
+  opacity:1; 
+  border: solid 3px black;
+}
+.metro:hover{ 
+    font-size: 35px;
+  opacity:1; 
+  border: solid 3px black;
+}
+
